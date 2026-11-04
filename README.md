@@ -1,10 +1,10 @@
 <div align="center">
 
-# Nigel Scott
+# Page011
 
-### Building a better Windows desktop.
+### Trying to make Windows useable
 
-I build desktop tools in Rust — from window management to everyday utilities.
+I build desktop tools in Rust | from window management to everyday utilities.
 
 [Astur](https://astur.app) · [Projects](https://github.com/Page011?tab=repositories) · [Sponsor](https://github.com/sponsors/Page011)
 
@@ -18,9 +18,9 @@ I build desktop tools in Rust — from window management to everyday utilities.
 
 ## Astur
 
-**Your windows, working together.**
+**Hyprland for Windows! (almost)**
 
-A free, open-source tiling window manager for Windows. Automatic layouts, smooth animations, virtual workspaces, and an app launcher — controlled from your keyboard.
+A free, open-source tiling window manager for Windows. Automatic layouts, smooth animations, virtual workspaces, and an app launcher.
 
 [![Astur website](assets/astur-website.jpg)](https://astur.app/)
 
@@ -33,7 +33,7 @@ A free, open-source tiling window manager for Windows. Automatic layouts, smooth
 | Project | What it does |
 | :--- | :--- |
 | **[Sill / crashpad](https://github.com/Page011/crashpad)** | A desktop island for clipboard history, notes, screenshots, reminders, and a file shelf. |
-| **[Better Snip Tool](https://github.com/Page011/betterSnipTool)** | A lightweight screenshot utility for Windows, built in Rust and shipped as a portable executable. |
+| **[Better Snip Tool](https://github.com/Page011/betterSnipTool)** | A worse snip tool but i wanted to try. |
 
 ---
 
