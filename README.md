@@ -22,7 +22,7 @@ I build desktop tools in Rust | from window management to everyday utilities.
 
 A free, open-source tiling window manager for Windows. Automatic layouts, smooth animations, virtual workspaces, and an app launcher.
 
-[![Astur website](assets/astur-website.jpg)](https://astur.app/)
+[![Astur website](assets/astur-website2.jpg)](https://astur.app/)
 
 **[Website](https://astur.app)** · **[Download](https://github.com/Page011/Astur/releases/latest)** · **[Source](https://github.com/Page011/Astur)** · **[Watch the demo](https://astur.app/#showcase)**
 
