@@ -34,6 +34,7 @@ A free, open-source tiling window manager for Windows. Automatic layouts, smooth
 | :--- | :--- |
 | **[Sill / crashpad](https://github.com/Page011/crashpad)** | A desktop island for clipboard history, notes, screenshots, reminders, and a file shelf. |
 | **[Better Snip Tool](https://github.com/Page011/betterSnipTool)** | A worse snip tool but i wanted to try. |
+| **[Vera Calendar](https://vera-calendar.com/)** | Outlook mail, calendar, tasks, and notes in one Windows app. |
 
 ---
 
