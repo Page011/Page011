@@ -37,6 +37,7 @@ A free, open-source tiling window manager for Windows. Automatic layouts, smooth
 | **[Vera Calendar](https://vera-calendar.com/)** | Outlook mail, calendar, tasks, and notes in one Windows app. |
 | **[ChatCLI](https://github.com/Page011/chatCLI)** | Whatsapp and Microsoft Teams in a TUI so they stop hogging your RAM |
 | **[WTGF](https://github.com/Page011/Windows-Terminal-Gap-Fix)** | A minimal rust script that fixes the gap between taskbar and terminal on Windows |
+| **[Tugboat](https://github.com/Page011/LocalTugboat)** | A file sharing app similar to local send, but with saved devices and a temp storage contianer |
 
 ---
 
